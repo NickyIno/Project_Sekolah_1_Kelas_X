@@ -2,9 +2,9 @@ def urut_kecil_besar(list_angka):
     for x in range(len(list_angka)):
         for k in range(x+1,len(list_angka), 1):
             if list_angka[x] > list_angka[k]:
-                keyla = list_angka[k]
+                wadah = list_angka[k]
                 list_angka[k] = list_angka[x]
-                list_angka[x] = keyla
+                list_angka[x] = wadah
     return list_angka
 
 angka = [12,5,4,3,10,2]
