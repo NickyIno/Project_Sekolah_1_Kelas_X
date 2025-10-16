@@ -36,4 +36,4 @@ Proyek ini dibuat untuk:
 ## 💡 Cara Menjalankan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/NickyIno/NamaRepoKamu.git
+   git clone https://github.com/NickyIno/Project_Sekolah_1_Kelas_X.git
