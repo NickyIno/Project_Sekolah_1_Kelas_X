@@ -21,6 +21,7 @@ Berisi berbagai script kecil yang membantu memahami konsep perhitungan, percaban
 
 ## 🚀 Tujuan Proyek
 Proyek ini dibuat untuk:
+- Ini soal ulangan Semester 1 Kelas X
 - Melatih logika dasar pemrograman dengan Python.  
 - Menerapkan konsep matematika dan fisika sederhana ke dalam kode.  
 - Menjadi portofolio pembelajaran di bidang PPLG/RPL.
